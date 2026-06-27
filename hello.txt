@@ -10,4 +10,3 @@ hello hello hello git!
 hello hello hello git! master test
 hello hello hello git! hot-fix test
 11111111111111111111111111111111111
-2222222222222222222222 by Luoliang2029
